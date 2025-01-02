@@ -21,7 +21,7 @@ st.write("""
 """)
 
 # Gallery section
-st.header("Gallery of Products Made from Plant Cellulose")
+st.header("Gallery of Product Made from Plant Cellulose")
 
 # List of images with relative paths
 image_files = ["image/FEED_GRAIN.jpg"]  # Use relative path
