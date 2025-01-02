@@ -26,11 +26,7 @@ st.write("""
 st.header("Gallery of Products Made from Plant Cellulose")
 
 # List of images with relative paths
-image_files = [
-    "image/CATTLE_FEED.webp",  # Use relative path
-    "image/POULTRY_FEED.webp",  # Use relative path
-    "image/FEED_GRAIN.jpg",  # Use relative path
-]
+image_files = ["image/FEED_GRAIN.jpg",  # Use relative path]
 
 # Display images in the gallery
 for image_path in image_files:
