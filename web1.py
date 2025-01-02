@@ -41,4 +41,4 @@ for image_path in image_files:
 
 # Contact section
 st.header("Contact")
-st.write("For further information, contact RONI SAHA at [your_email@example.com](mailto:your_email@example.com)")
+st.write("For further information, contact RONI SAHA at ronisaha2025@gmail.com")
