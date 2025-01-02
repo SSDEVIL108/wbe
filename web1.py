@@ -6,7 +6,7 @@ st.title("Plant-Based Cellulose Research")
 
 # Sidebar for navigation
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Select a page:", ["Home", "Health Benefits", "Gallery", "Contact"])
+page = st.sidebar.selectbox("Select a page:", ["Home", "Health Benefits", "Gallery", "Contact"])
 
 if page == "Home":
     # Introduction section
